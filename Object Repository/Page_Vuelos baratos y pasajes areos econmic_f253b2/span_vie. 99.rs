@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_vie. 99</name>
+   <tag></tag>
+   <elementGuidId>f09b8bc9-f4e8-4888-b662-faf8ece1e6e1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.sR_k-value</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='UJVc']/div/div/div/div/div[2]/div/div[4]/div/div/div/div/span/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>54409f61-4f94-4068-9f5a-dfa15d53cdd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sR_k-value</value>
+      <webElementGuid>9e5d8424-d194-4c79-9b7f-1053a7d10a34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-live</name>
+      <type>Main</type>
+      <value>polite</value>
+      <webElementGuid>1b09d219-ad65-4750-8721-7ef5f4b7cb02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-atomic</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>244d7bb6-0ccf-474c-ada6-b43a0735995c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>viernes septiembre 9º</value>
+      <webElementGuid>b3644143-f2cd-4834-aaef-d820532b6f9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>vie. 9/9</value>
+      <webElementGuid>cc437ec4-3246-4517-934e-983451b1060a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;UJVc&quot;)/div[@class=&quot;kml-layout mod-full&quot;]/div[@class=&quot;zEiP zEiP-pres-default zEiP-mod-with-drawer&quot;]/div[@class=&quot;kml-layout zEiP-formAndCmp2Container&quot;]/div[@class=&quot;zEiP-formContainer&quot;]/div[@class=&quot;zEiP-formBody&quot;]/div[@class=&quot;zEiP-formFieldOutline&quot;]/div[@class=&quot;zEiP-formField zEiP-dates&quot;]/div[1]/div[@class=&quot;c2wZD c2wZD-mod-fluid-stretch c2wZD-rangeSelector c2wZD-mod-hide-arrows&quot;]/div[@class=&quot;sR_k sR_k-mod-size-mcfly sR_k-mod-radius-base sR_k-pres-mcfly sR_k-mod-variant-inline sR_k-mod-responsive&quot;]/div[@class=&quot;sR_k-input sR_k-mod-responsive&quot;]/span[@class=&quot;sR_k-date sR_k-mod-hide-arrows sR_k-mod-active&quot;]/span[@class=&quot;sR_k-value&quot;]</value>
+      <webElementGuid>1a078ac3-6332-472a-8f16-84ab1c1ff44f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='UJVc']/div/div/div/div/div[2]/div/div[4]/div/div/div/div/span/span[2]</value>
+      <webElementGuid>46c70f63-cbda-4c5a-afc7-b39f9f3f31d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bogotá, Colombia (BOG)'])[1]/following::span[5]</value>
+      <webElementGuid>e9089359-e029-4c53-9c5a-e3f6ee85dec7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lima (LIM)'])[1]/following::span[9]</value>
+      <webElementGuid>a572b86e-b67f-4e62-aa7c-f14f00bea395</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='vie. 16/9'])[1]/preceding::span[3]</value>
+      <webElementGuid>e6186630-4686-4f81-88f8-062713a1eef0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='¡Te damos la bienvenida! Encuentra la mejor oferta para ti.'])[1]/preceding::span[6]</value>
+      <webElementGuid>a598a932-b3bd-4acd-b783-6542c4d2645e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='vie. 9/9']/parent::*</value>
+      <webElementGuid>5a2c48dd-aa58-43a4-a450-fbe5479e5748</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span[2]</value>
+      <webElementGuid>222736c8-cff3-433c-b44d-cc30e6e6de88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'vie. 9/9' or . = 'vie. 9/9')]</value>
+      <webElementGuid>846eac7b-4116-47f2-96a6-10f340b41449</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

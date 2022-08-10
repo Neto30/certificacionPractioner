@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_mar. 410_c8LPF-icon</name>
+   <tag></tag>
+   <elementGuidId>a4ecc10f-f0af-49bf-a3e5-9c021b552887</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>svg.c8LPF-icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='mar. 4/10'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>2c859f31-5bea-469d-a5f6-ed5c81d86747</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>d0409d24-1435-4a01-8faf-ab822a292a49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 200 200</value>
+      <webElementGuid>7079c908-799f-47eb-968c-8f032144e612</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>c8LPF-icon</value>
+      <webElementGuid>09170d68-5e38-4336-9e76-7060f971ca2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>48ee4792-d6c0-4d70-9260-99f3ea3eac9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>24</value>
+      <webElementGuid>38ca4dd3-6cee-44f9-b1be-63d232b14e5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;UJVc&quot;)/div[@class=&quot;kml-layout mod-full&quot;]/div[@class=&quot;zEiP zEiP-pres-default zEiP-mod-with-drawer&quot;]/div[@class=&quot;kml-layout zEiP-formAndCmp2Container&quot;]/div[@class=&quot;zEiP-formContainer&quot;]/div[@class=&quot;zEiP-formBody&quot;]/div[@class=&quot;zEiP-formFieldOutline&quot;]/div[@class=&quot;zEiP-formField zEiP-submit&quot;]/button[@class=&quot;Iqt3 Iqt3-mod-bold Button-No-Standard-Style Iqt3-mod-variant-solid Iqt3-mod-theme-progress Iqt3-mod-shape-rounded-medium Iqt3-mod-shape-mod-default Iqt3-mod-spacing-default Iqt3-mod-size-large Iqt3-mod-animation-search&quot;]/div[@class=&quot;Iqt3-button-container&quot;]/div[@class=&quot;Iqt3-button-content&quot;]/svg[@class=&quot;c8LPF-icon&quot;]</value>
+      <webElementGuid>ab31a893-fd86-4644-ba84-7b6162e45049</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='mar. 4/10'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>2f888a13-3202-4f46-bd6d-82328cf8cc7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='vie. 16/9'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>3a2d28fc-ced1-416f-9629-f94de91937b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='¡Te damos la bienvenida! Encuentra la mejor oferta para ti.'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>7cc0fef1-0489-4593-b2f0-4d2fca964155</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Las mejores ofertas de viaje para ti'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>63f804ec-0f1d-43e0-9ab9-822d33e9d384</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
